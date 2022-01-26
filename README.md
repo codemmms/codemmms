@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning PM and fintech basics.
 - 💞️ I’m looking to collaborate on product designing.
 - 📫 How to reach me here.
+😁
 
 <!---
 codemmms/codemmms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
